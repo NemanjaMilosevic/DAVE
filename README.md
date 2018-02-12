@@ -1,2 +1,2 @@
 # DAVE
-Decentralized Autonomous Voting Engine 
+Decentralized Autonomous Voting Engine/Environment 
